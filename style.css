@@ -1,0 +1,13 @@
+h1{
+  font-family: arial;
+    font-weight: 200;
+    text-align: center;
+    background: #2742c7;
+    color: #dedde8;
+    padding-top: .5em;
+    font-size: 4em;
+}
+.d-flex float_left{
+  float:left;
+  display:flexbox;
+}
